@@ -1,3 +1,3 @@
 TDRP Library
 
-RAL Dependencies: None
+Library Dependencies: None

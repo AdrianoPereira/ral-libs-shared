@@ -1,3 +1,3 @@
 Fmq Library
 
-RAL Dependencies: dsserver, rapformats
+Library Dependencies: dsserver, rapformats

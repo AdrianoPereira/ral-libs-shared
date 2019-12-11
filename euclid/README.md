@@ -1,3 +1,3 @@
 Euclid Library
 
-RAL Dependencies: rapmath
+Library Dependencies: rapmath

@@ -1,3 +1,3 @@
 RAP Math Library
 
-RAL Dependencies: toolsa, tdrp
+Library Dependencies: toolsa, tdrp

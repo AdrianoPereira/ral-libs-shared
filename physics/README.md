@@ -1,3 +1,3 @@
 Physics Library
 
-RAL Dependencies: rapformats
+Library Dependencies: rapformats

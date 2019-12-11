@@ -1,3 +1,3 @@
 RAP Formats Library
 
-RAL Dependencies: euclid, didss
+Library Dependencies: euclid, didss

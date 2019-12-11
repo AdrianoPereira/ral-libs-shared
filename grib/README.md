@@ -1,3 +1,3 @@
 Grib Library
 
-RAL Dependencies: euclid
+Library Dependencies: euclid

@@ -1,3 +1,3 @@
 Grib2 Library
 
-RAL Dependencies: toolsa
+Library Dependencies: toolsa
